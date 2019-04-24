@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556067531386.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3633004583",
+    "id" : "8A842BD7",
+    "lastKnownWriteTime" : 1556068672,
+    "last_content_update" : 1556068672114,
+    "path" : "~/epidtools/R/epi.R",
+    "project_path" : "R/epi.R",
+    "properties" : {
+        "cursorPosition" : "23,24",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
