@@ -1,0 +1,9 @@
+{
+    "path" : "~/epidtools/man",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
